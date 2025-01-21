@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Python language
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me (Sorry you can't)
-- 😄 Pronouns: A young programmer
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobby is to play Keyboard and also doing Trinity College of London Grade Exams
 
 <!---
