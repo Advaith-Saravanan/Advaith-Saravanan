@@ -5,6 +5,7 @@
 - 📫 How to reach me (Sorry you can't)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobby is to play Keyboard and also doing Trinity College of London Grade Exams
+- ✌🏼 I was born on 13-NOV-2012 in Tamilnadu
 
 <!---
 Advaith-Saravanan/Advaith-Saravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
